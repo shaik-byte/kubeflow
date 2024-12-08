@@ -1,3 +1,12 @@
+https://www.kubeflow.org/docs/components/pipelines/legacy-v1/installation/standalone-deployment/    #kubeflow installation
+
+
+https://towardsdatascience.com/how-to-create-and-deploy-a-kubeflow-machine-learning-pipeline-part-1-efea7a4b650f     #GKE cluster creation
+
+
+
+
+
 CLUSTERNAME=mykfp
 ZONE=us-central1-b
 gcloud config set compute/zone $ZONE
